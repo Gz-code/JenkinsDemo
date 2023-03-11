@@ -1,1 +1,1 @@
-This is a new file, for jenkins intergration with Git
+This is a sample file, created for Jenkins Demo
